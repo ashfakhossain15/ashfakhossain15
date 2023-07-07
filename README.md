@@ -29,9 +29,9 @@
 <p><img  align="right"  width="350"   src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfakhossain15&show_icons=true&locale=en&layout=compact" alt="ashfakhossain15" /></p>
 
 
-<p>&nbsp;<img align="left" width="370"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" /></p>
+<p>&nbsp;<img align="left" width="400"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" /></p>
 
-<p><p><img align="left" width="370"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" /></p>
+<p><p><img align="left" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" /></p>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="right" a width="50">
 
