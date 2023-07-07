@@ -26,10 +26,10 @@
 
 ### 🏆 Github Stats
 
-<p><img  align="left"  width="350" height="205"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfakhossain15&show_icons=true&locale=en&layout=compact" alt="ashfakhossain15" /></p>
+<p><img  align="right"  width="330" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfakhossain15&show_icons=true&locale=en&layout=compact" alt="ashfakhossain15" /></p>
 
 
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" /></p>
+<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" /></p>
 
 <p><img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" /></p>
 
