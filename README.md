@@ -33,7 +33,10 @@
 
 <p><p><img align="left" width="370"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" /></p>
 
-![Metrics](https://metrics.lecoq.io/ashfakhossain15?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka)
+<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="right" a width="50">
 
-<img align="right" alt="Coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="right" a width="50"></p>
+
 </p>
+</p>
+
+![Metrics](https://metrics.lecoq.io/ashfakhossain15?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka)
