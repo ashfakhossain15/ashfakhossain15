@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashfakhossain15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfakhossain15" height="30" width="40" /></a>
-<a href="https://fb.com/ashfak.sikder.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfak.sikder.15" height="30" width="40" /></a>
-<a href="https://instagram.com/sikderashfak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sikderashfak" height="30" width="40" /></a>
+<a href="https://fb.com/ashfakhossain175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfakhossain15" height="30" width="40" /></a>
+<a href="https://instagram.com/ashfakhossain15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashfakhossain15" height="30" width="40" /></a>
 </p>
 
 
