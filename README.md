@@ -1,12 +1,15 @@
 ![MasterHead](https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
 <h1 align="center">Hi 👋, I'm Ashfak Hossain</h1>
+
+ 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+ <img   src="https://komarev.com/ghpvc/?username=ashfakhossain15&label=Profile%20views&color=0e75b6&style=flat" alt="ashfakhossain15" /> 
 
  
  <a href="https://app.daily.dev/ashfakhossain15">
  <img align="right"  src="https://api.daily.dev/devcards/ae9f717c5ee94f6788fcabacf734316b.png?r=di5" width="250" alt="ASHFAK Hossain's Dev Card"/>
  </a>
- <img align="left"  src="https://komarev.com/ghpvc/?username=ashfakhossain15&label=Profile%20views&color=0e75b6&style=flat" alt="ashfakhossain15" /> 
+
  
 
 - 💬 Ask me about **React , Javascript**
