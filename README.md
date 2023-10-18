@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ashfak Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<a href="https://app.daily.dev/ashfakhossain15"><img align="right"  src="https://api.daily.dev/devcards/ae9f717c5ee94f6788fcabacf734316b.png?r=di5" width="275" alt="ASHFAK Hossain's Dev Card"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfakhossain15&label=Profile%20views&color=0e75b6&style=flat" alt="ashfakhossain15" /> </p>
-
 
 
 - 💬 Ask me about **React , Javascript**
