@@ -7,14 +7,9 @@
 <img  align="right"  width="350"   src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfakhossain15&show_icons=true&locale=en&layout=compact" alt="ashfakhossain15" />
 
 
-
-
-
 - 💬 Ask me about **React , Javascript**
 
 - 📫 How to reach me **ashfaksikder15@gmail.com**
-
-<img align="right" width="380"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" />
 
 - ⚡ Fun fact **I am funny**
 
