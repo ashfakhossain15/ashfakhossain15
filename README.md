@@ -26,17 +26,15 @@
 
 ### 🏆 Github Stats
 
-<p><img  align="right"  width="350"   src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfakhossain15&show_icons=true&locale=en&layout=compact" alt="ashfakhossain15" /></p>
+<img  align="right"  width="350"   src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfakhossain15&show_icons=true&locale=en&layout=compact" alt="ashfakhossain15" />
 
 
-<p>&nbsp;<img align="left" width="390"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" /></p>
-
-<p><p><img align="left" width="390"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" /></p>
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="right" a width="50">
+<p>&nbsp;<img align="right" width="390"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" /></p>
+<p><img align="right" width="390"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" /></p>
 
 
-</p>
-</p>
+
+
+
 
 ![Metrics](https://metrics.lecoq.io/ashfakhossain15?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka)
