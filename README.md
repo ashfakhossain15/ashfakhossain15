@@ -8,7 +8,6 @@
 
 <img align="right" width="380"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" />
 
-<img align="right" width="380"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" />
 
 
 - 💬 Ask me about **React , Javascript**
@@ -16,6 +15,8 @@
 - 📫 How to reach me **ashfaksikder15@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+<img align="right" width="380"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
