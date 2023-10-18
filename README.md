@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfakhossain15&label=Profile%20views&color=0e75b6&style=flat" alt="ashfakhossain15" /> </p>
 
-<img  align="right"  width="300"   src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfakhossain15&show_icons=true&locale=en&layout=compact" alt="ashfakhossain15" />
+<img  align="right"  width="350"   src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfakhossain15&show_icons=true&locale=en&layout=compact" alt="ashfakhossain15" />
 
-<p>&nbsp;<img align="right" width="300"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" /></p>
+<img align="right" width="350"  src="https://github-readme-stats.vercel.app/api?username=ashfakhossain15&show_icons=true&theme=radical" alt="ashfakhossain15" />
 
-<p><img align="right" width="300"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" /></p>
+<img align="right" width="300"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashfakhossain15&" alt="ashfakhossain15" />
 
 
 - 💬 Ask me about **React , Javascript**
